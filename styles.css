@@ -1,14 +1,15 @@
 h1 {
     font-family: geneva;
     text-align: center;
-    font-size: 70px;
-    padding: 30px 0;
+    font-size: 50px;
+    padding-top: 30%;
+    padding-bottom: 30%;
 }
 .topblock {
     background-color: #abf7b1;
-    width: 100vw;
-    height: 150px;
+    width: 150vw;
+    height: 50px;
 }
 body {
-    color: #00000f;
+    background-color: #00000f;
 }
