@@ -2,13 +2,13 @@ h1 {
     font-family: sans-serif;
     text-align: center;
     font-size: 50px;
-    padding-top: 30%;
-    padding-bottom: 30%;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 .topblock {
     background-color: #abf7b1;
     width: 100vw;
-    height: 70px;
+    height: 40px;
 }
 body {
     background-color: #00000f;
