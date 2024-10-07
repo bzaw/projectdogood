@@ -1,14 +1,14 @@
 h1 {
-    font-family: georgia;
+    font-family: sans-serif;
     text-align: center;
-    font-size: 50px;
-    padding-top: 3%;
+    font-size: 40px;
+    padding-top: 2%;
     padding-bottom: 3%;
 }
 .topblock {
     background-color: #abf7b1;
     width: 100vw;
-    height: 40px;
+    height: 30px;
 }
 body {
     background-color: #00000f;
