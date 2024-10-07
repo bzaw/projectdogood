@@ -1,5 +1,5 @@
 h1 {
-    font-family: geneva;
+    font-family: sans-serif;
     text-align: center;
     font-size: 50px;
     padding-top: 30%;
@@ -7,8 +7,8 @@ h1 {
 }
 .topblock {
     background-color: #abf7b1;
-    width: 150vw;
-    height: 50px;
+    width: 100vw;
+    height: 70px;
 }
 body {
     background-color: #00000f;
